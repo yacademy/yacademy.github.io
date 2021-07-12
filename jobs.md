@@ -16,6 +16,14 @@ As a founding auditor you get to shape the academy from its early days, includin
 - Work with yAcademy's partners to design and implement awareness campaigns intended to scout for and attract top security talents.
 - Work with yAcademy's oversight committee to design and implement compensation tiers for: interns, contributors, and bounty hunters.
 
+#### **Qualification**
+
+- You have auditing experience, preferably in Web3 domain
+- You are comfortable using automated auditing tools
+- Excellent communication and organization skills
+- You have a passion for community building
+- Bonus: you have contribute to blockchain security through bounties and/or participation in CTF competitions
+
 #### **Compensation**
 
 - $150-230k USD yearly salary.
