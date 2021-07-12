@@ -18,7 +18,7 @@ td, th {
             <td style="text-align:left;vertical-align:middle;">
                 <h2>A Community-driven Approach to Blockchain Security</h2>
                 
-                <h4>yAcademy is an ecosystem initiative spearheaded by Yearn Finance and its partner to bootstrap a sustainable and collaborative blockchain security, nurturing <a href="/internships">aspiring</a> security talent.</h4>
+                <h4>yAcademy is an ecosystem <a href="https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929">initiative</a> spearheaded by Yearn Finance and its partner to bootstrap a sustainable and collaborative blockchain security, nurturing <a href="/internships">aspiring</a> security talent.</h4>
                 
                 <br>
                 
