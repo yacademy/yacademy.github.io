@@ -21,7 +21,7 @@ An essential part of yAcademy's mandate is to scout for and generously compensat
 
 ## <strong>How to join</strong>
 
-yAcademy proactively invites promising security talent to the internship program. Examples of an intern is someone who: (a) stood out in the KERNEL security program (b) completed a security bounty (such as on [Immunefi](https://immunefi.com) or [ReviewDAO](https://reviews.dao)), and/or (c) has contributed code to Web3 generally and is willing to do 
+yAcademy proactively invites promising security talent to the internship program. Examples of an intern is someone who: (a) stood out in the KERNEL security program (b) completed a security bounty (such as on [Immunefi](https://immunefi.com) or [ReviewDAO](https://reviews.dao)), and/or (c) has contributed code to Web3 generally.
 
 If you think you qualify and should be invited, please [contact](mailto:yacademy@pm.me) the academy.
 
