@@ -17,7 +17,7 @@ Interns are expected to hit the ground running and set their dev environments qu
 
 ## <strong>Compensation</strong>
 
-The mandate of yAcademy is to scout for and generously compensate top security talent. Interns who do the assigned work, ask intelligent questions, and provide help to fellow interns **will be compensated**. Top intern talents may be extended offers to **join yAcademy permanently** at the appropriate capacity, potentially [owning a piece of it](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929).
+An essential part of yAcademy's mandate is to scout for and generously compensate top security talent. Interns who do the assigned work, ask intelligent questions, and provide help to fellow interns **will be compensated**. Top intern talents may be extended offers to **join yAcademy permanently** at the appropriate capacity, potentially [owning a piece of it](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929).
 
 ## <strong>How to join</strong>
 
