@@ -26,7 +26,7 @@ As a founding auditor you get to shape the academy from its early days, includin
 
 #### **Compensation**
 
-- $150-230k USD yearly salary.
+- $125-185k USD yearly salary
 - 5% equity in the yAcademy DAO.
 
 
