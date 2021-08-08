@@ -25,6 +25,10 @@ yAcademy proactively invites promising security talent to the internship program
 
 Although internships are invite-only, you can still If you still [contact](mailto:yacademy@pm.me) the academy if you think you qualify.
 
-Subscribe to updates from yAcademy about upcoming internships:
+
+
+<span class="fs-5"> [Apply]([mailto:yacademy@pm.me?subject=Founding auditor position at yAcademy](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform)){: .btn .btn-green } </span> &nbsp; <span class="fs-5"> [Refer Someone Else]([mailto:yacademy@pm.me?subject=Founding auditor position at yAcademy](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform)){: .btn .btn-green } </span> &nbsp; 
+
+You can also subscribe to updates from yAcademy about upcoming internships:
 
 <center><iframe src="https://yacademy.substack.com/embed" width="350" height ="100" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
