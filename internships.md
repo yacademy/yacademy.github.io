@@ -27,7 +27,7 @@ Although internships are invite-only, you can still If you still [contact](mailt
 
 
 
-<span class="fs-5"> [Apply]([mailto:yacademy@pm.me?subject=Founding auditor position at yAcademy](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform)){: .btn .btn-green } </span> &nbsp; <span class="fs-5"> [Refer Someone Else]([mailto:yacademy@pm.me?subject=Founding auditor position at yAcademy](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform)){: .btn .btn-green } </span> &nbsp; 
+<span class="fs-5"> [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform){: .btn .btn-green } </span> &nbsp; <span class="fs-5"> [Refer Someone Else](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform){: .btn .btn-green } </span> &nbsp; 
 
 You can also subscribe to updates from yAcademy about upcoming internships:
 
