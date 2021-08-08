@@ -29,7 +29,7 @@ As a founding auditor you get to shape the academy from its early days, includin
 - $125-150k USD yearly salary
 - 5% equity in the yAcademy DAO.
 
-<span class="fs-5"> [Apply](mailto:yacademy@pm.me?subject=Founding auditor position at yAcademy){: .btn .btn-green } </span> &nbsp; 
+<span class="fs-5"> [Apply](mailto:yacademy@pm.me?subject=Founding auditor position at yAcademy){: .btn .btn-green } </span> &nbsp; <span class="fs-5"> [Refer a Candidate](https://docs.google.com/forms/d/e/1FAIpQLSeSjviAtlim8TJOm0GMEcafnYliY34tQAmlRmmMHK-DIjibkQ/viewform){: .btn .btn-green } </span> &nbsp;
 
 **$10,000 referral reward if the candidate you refer is hired**
 
@@ -54,4 +54,5 @@ One or more of the following:
 
 - variable depending on the role and time commitment.
 
-<span class="fs-5"> [Apply](mailto:yacademy@pm.me?subject=Contributor position at yAcademy){: .btn .btn-green } </span> &nbsp;
+<span class="fs-5"> [Apply](mailto:yacademy@pm.me?subject=Contributor position at yAcademy){: .btn .btn-green } </span> &nbsp; 
+
