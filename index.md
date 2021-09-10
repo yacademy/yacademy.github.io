@@ -39,4 +39,4 @@ td, th {
 <span class="fs-2"> [Discussion](https://discord.yearn.finance){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Updates](/internships){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Twitter](https://twitter.com/yacademyDAO){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Contact](mailto:yacademy@pm.me){: .btn .btn-green } </span> 
+<span class="fs-2"> [Contact](mailto:team@yacademy.dev){: .btn .btn-green } </span> 
