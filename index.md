@@ -44,6 +44,6 @@ td, th {
 </div>
     
 <span class="fs-2"> [Auditing Services](/auditing-services){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Fellowship Programs](/fellowship-program){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Guest Auditors](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Fellowship Program](/fellowship-program){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Guest Auditor Program](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Contact](/contact){: .btn .btn-green } </span> 
