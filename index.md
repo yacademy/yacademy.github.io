@@ -17,14 +17,22 @@ td, th {
     <table>
         <tr>
             <td style="text-align:left;vertical-align:middle;">
-                <h2>A Community-driven Approach to Blockchain Security</h2>
                 
-                <h4>yAcademy is an ecosystem <a href="https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929">initiative</a> spearheaded by Yearn Finance and its partners to bootstrap a sustainable and collaborative blockchain security and nurture <a href="/internships">aspiring</a> security talent.</h4>
+
+                <h4><b>Projects:</b></h4>
                 
+                Get your codebase audited in a weeks, if not days.  <a href="/auditing-services">Learn more and apply..</a>
+
+                <h4><b>Fellows:</b></h4>
+                 
+                 join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowship-program">Learn more and apply..</a>
+
+                <h4><b>Auditors:</b></h4> 
+                
+                Be our guest auditor during one of our auditing sprints. You will lead the fellows (for 1-2 weeks), with full support from our resident auditors and admin staff.  <a href="/guest-auditor-program">Learn more and apply..</a>
+
+      
                 <br>
-                
-                <h4>yAcademy DAO is managed by its full-time members and active contributors, with oversight and guidance from the Ethereum Security <a href="/alliance">Alliance</a> members.</h4>
-                <br><br>
 
             </td>
             <td style="width:30%">
@@ -35,8 +43,7 @@ td, th {
     </table>
 </div>
     
-<span class="fs-2"> [Governance](https://gov.yearn.finance/c/projects/yacademy){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Discussion](https://discord.yearn.finance){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Updates](/internships){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Twitter](https://twitter.com/yacademyDAO){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Contact](mailto:team@yacademy.dev){: .btn .btn-green } </span> 
+<span class="fs-2"> [Auditing Services](/auditing-services){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Fellowship Programs](/fellowship-program){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Guest Auditors](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Contact](/contact){: .btn .btn-green } </span> 
