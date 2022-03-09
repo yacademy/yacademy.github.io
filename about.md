@@ -5,6 +5,8 @@ has_children: false
 nav_order: 1
 ---
 
+# About yAcademy
+
 
 <style>
 td, th {
@@ -80,10 +82,7 @@ td, th {
 
 
             </td>
-            <td style="width:30%">
-                <center><img src="/assets/images/logo.png" width="200"></center>
-                
-            </td>
+            
         </tr>  
     </table>
 </div>

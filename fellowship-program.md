@@ -2,9 +2,12 @@
 title: Fellowship program
 layout: default
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
+# Fellowship Program
+
+<br>
 
 yAcademy fellowships are **not** introductory programs to software auditing. They are trial-by-fire programs where you will audit pre- or in-production codebases, and the stakes are very high. 
 
