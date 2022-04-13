@@ -25,7 +25,7 @@ td, th {
 
                 <h4><b>Fellows:</b></h4>
                  
-                 join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowship-program">Learn more and apply..</a>
+                Join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowship-program">Learn more and apply..</a>
 
                 <h4><b>Auditors:</b></h4> 
                 
