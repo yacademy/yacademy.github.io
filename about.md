@@ -22,7 +22,7 @@ td, th {
                 
                 <br>
 
-                Ethereum is on a path towards a gloriously scalable future thanks to innovations such as interactive provers, ZK-Rollups, efficient commitment schemes, and data-availability sampling. These innovations are the fruits of years of uncompromising focus on a maximally decentralized, secure, and creidbly netural blockchain.
+                Ethereum is on a path towards a gloriously scalable future thanks to innovations such as interactive provers, ZK-Rollups, efficient commitment schemes, and data-availability sampling. These innovations are the fruits of years of uncompromising focus on a maximally decentralized, secure, and credibly neutral blockchain.
 
                 <br><br>
 
@@ -30,15 +30,15 @@ td, th {
 
                 <br><br>
 
-                There is acute shortage of software auditing talent. Considering how much value at stake in blockchain systems, solving this bottleneck is essential to getting these trust-minimized systems to the a wider adoption.
+                There is an acute shortage of software auditing talent. Considering how much value is at stake in blockchain systems, solving this bottleneck is essential to getting these trust-minimized systems for broader adoption.
 
                 <br><br>
 
-                Our model takes a different approach to auditing. We are nimble, with extremely minimal administrative overhead. We audit communally, in a collaborative environment between our residents/mentors/guest auditors on one side, and our fellows on another.
+                Our model takes a different approach to auditing. We are nimble, with minimal administrative overhead. We audit communally, in a collaborative environment between our residents/mentors/guest auditors on one side, and our fellows on another.
 
                 <br> <br>
 
-                <b>The scalability gain comes from the fact that an outstanding fellow is invited to stay on as a resident, thereby helping us scale the size and quality of the _next_ batch of fellows</b>.
+                <b>The scalability gain comes from the fact that an outstanding fellow is invited to stay on as a resident, thereby helping us scale the size and quality of the next batch of fellows</b>.
 
                 <br><br>
 
@@ -67,7 +67,7 @@ td, th {
 
                 <h4><b>Apply as a fellow:</b></h4>
 
-                    if you are a developer or a researcher who is very fluent in programming, you may qualifty. <a href="/fellowship-program">Learn more and apply</a><br><br>
+                    if you are a developer or a researcher who is very fluent in programming, you may qualify. <a href="/fellowship-program">Learn more and apply</a><br><br>
 
                 <h4><b>Apply as a guest auditor:</b></h4>
 
@@ -76,7 +76,7 @@ td, th {
 
                 <h4><b>Apply as a yAcademy contributor:</b></h4>
 
-                    None of yAcademy core contributors was "hired". They all jumped in and started contributing in one or more aspects: auditing, documentation, recruitment, or ops and comms. <br>
+                    None of yAcademy core contributors were "hired". They all jumped in and started contributing in one or more aspects: auditing, documentation, recruitment, or ops and comms. <br>
 
                 If you are eager to contribute in one or more areas but don't know how to break in, <a href="/contact">reach out and tell us more about yourself</a><br><br>
 
