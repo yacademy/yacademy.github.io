@@ -21,7 +21,7 @@ td, th {
 
                 <h4><b>Projects:</b></h4>
                 
-                Get your codebase audited in a weeks, if not days.  <a href="/auditing-services">Learn more and apply..</a>
+                Get your codebase audited in weeks, if not days.  <a href="/auditing-services">Learn more and apply..</a>
 
                 <h4><b>Fellows:</b></h4>
                  
