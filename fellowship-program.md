@@ -31,7 +31,7 @@ If you think this program is advanced for you, fear not, you can still join afte
 - During the week, async discussion take place between fellows, mentors, guest auditors, residents, and codebase devs. 
 - Fellows work in groups during the week. Groups may meet during the week over calls.
 - At the end of the week (or second week for larger codebases), fellows present their findings and receive feedback from our residents, mentors, and codebase authors.
-- The auditing spring ends with a retreat session where we invite a prominent guest for a lecutre or AMA with the fellows.
+- The auditing sprint ends with a retreat session where we invite a prominent guest for a lecture or AMA with the fellows.
 
 ### Do you reward outstanding fellows?
 
