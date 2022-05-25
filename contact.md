@@ -2,7 +2,7 @@
 title: Contact
 layout: default
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 
 You can reach us at: **team** AT **yacademy** DOT **dev**
