@@ -18,7 +18,7 @@ nav_order: 5
     - Moderate public channels
     - Social engagement
     - Branding and graphics 
-    - Maintaina and improve the official website and the general blog
+    - Maintain and improve the official website and the general blog
     - Publish regular community updates
 - Ops:
     - Maintain scheduling on all calendars: ops, residents, fellowships, interviews
