@@ -9,7 +9,7 @@ nav_order: 5
 
 <br>
 
-## Operations and Communications Lead
+## ~~Operations and Communications Lead~~ (filled)
 
 
 - Communications:
