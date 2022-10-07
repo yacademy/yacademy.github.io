@@ -47,9 +47,9 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-# aux_links:
-#  "Edit me":
-#    - "//github.com/yacademy/yacademy.github.io"
+aux_links:
+ "View Our Completed Reports":
+   - "https://reports.yacademy.dev"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
