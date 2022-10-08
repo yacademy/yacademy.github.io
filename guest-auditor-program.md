@@ -16,7 +16,7 @@ You will be prepped and supported by our resident auditors and core staff. All y
 
 You will be given access to the codebase well in advance to familiarize yourself with it. Our auditing sprints are a mix of sync calls and async discussions. Our fellows work in groups, and you'll have access to their groups to participate and mentor, alongside our resident auditors who are always there as well.
 
-**If you think you are a good fit for the program (yay!), please [contact us](mailto:hello@yacademy.dev?subject:guest-auditor-program)**
+**If you think you are a good fit for the program (yay!), please [contact us](mailto:hello@yacademy.dev?subject:guest-auditor-program).**
 
 
 

@@ -26,7 +26,7 @@ If you think this program is advanced for you, fear not, you can still join afte
 
 ### How long is the program?
 
-1 month, covering 2-4 codebases
+1 month, covering 2-4 codebases.
 
 ### What is a typical week in the fellowship program?
 
