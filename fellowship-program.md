@@ -19,8 +19,8 @@ yAcademy fellowships are **not** introductory programs to software auditing. The
 
 * You are not required to have had experience in auditing or coding in the Web3 space, but you must be **proficient in sotware engineering** generally (hence, Web2 developers are welcome to apply)
 
-* The time commitment is **>=20 hours per week**.
 
+* The time commitment is **>=20 hours per week**.
 
 If you think this program is advanced for you, fear not, you can still join after going through an introductory program such as [Secureum](https://secureum.xyz/). If you prefer to fly solo, you can bootstrap yourself and hunt for bounties on [Immunefi](https://immunefi.com/). Then, come back and apply, we would love to boost your progress to an advanced level. 
 
