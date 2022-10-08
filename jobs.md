@@ -1,5 +1,5 @@
 ---
-title: Open Positions
+title: Open positions
 layout: default
 has_children: false
 nav_order: 5
