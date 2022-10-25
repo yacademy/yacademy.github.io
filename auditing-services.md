@@ -10,6 +10,8 @@ nav_order: 2
 
 <br>
 
+**[Completed audit reports](https://reports.yacademy.dev/)**
+
 We be auditing, always.
 
 During our fellowship programs, your code would be audited by everyone: residents, guest auditors, and fellows. Everyone submits their findings. Our residents will then verifty and curate the findings, and send you a unified report. 
