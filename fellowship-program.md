@@ -36,14 +36,6 @@ If you think this program is advanced for you, fear not, you can still join afte
 - At the end of the week (or second week for larger codebases), fellows present their findings and receive feedback from our residents, mentors, and codebase authors.
 - The auditing sprint ends with a retreat session where we invite a prominent guest for a lecture or AMA with the fellows.
 
-### Do you reward outstanding fellows?
-
-Yes. 
-
-- Fellows are peer-appraised at the end of the fellowship and rewarded accordingly. 
-- Top fellows will be invited to join the academy as resident auditors. 
-
-
 
 **If you think you are a good fit for the program (yay!), please apply:**
 
