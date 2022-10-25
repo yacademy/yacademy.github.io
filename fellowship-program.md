@@ -17,7 +17,7 @@ yAcademy fellowships are **not** introductory programs to software auditing. The
 
 * You will be expected to be fluent at setting up test environments, and run toolings. 
 
-* You are not required to have had experience in auditing or coding in the Web3 space, but you must be **proficient in sotware engineering** generally (hence, Web2 developers are welcome to apply)
+* You are not required to have had experience in auditing or coding in the Web3 space, but you must be **proficient in software engineering** generally (hence, Web2 developers are welcome to apply)
 
 
 * The time commitment is **>=20 hours per week**.
