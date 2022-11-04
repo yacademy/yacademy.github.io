@@ -20,7 +20,7 @@ td, th {
                 
 
                 <h4><b>Projects:</b></h4>
-                
+                <!-- markdown-link-check-disable -->
                 Get your codebase audited by our auditors, residents, and fellows: <a href="/auditing-services">Learn more and submit your code.</a>
 
                 <h4><b>Fellows:</b></h4>
@@ -47,3 +47,4 @@ td, th {
 <span class="fs-2"> [Fellowship Program](/fellowship-program){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Guest Auditor Program](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Contact](/contact){: .btn .btn-green } </span> 
+<!-- markdown-link-check-enable -->
