@@ -16,8 +16,54 @@ nav_order: 6
 
 # Alumni Residents
 
-Coming soon...
+||||
+|:--------------:|:-------------:|:----------------:| 
+|stermi|peep||
 
 # Fellows
 
-Coming soon...
+## Block 1 October 2021
+
+|||| 
+|:--------------:|:-------------:|:----------------:|    
+| Amanusk        |  bebis        |  Bob the Builder | 
+| Carl Farterson |  Dhurv        | Goober           |       
+| **Invader***   |  **Nibbler*** | Redbeard         |  
+
+
+*_became a resident_
+
+
+## Block 2 April 2022
+
+||||
+|:--------------:|:-------------:|:----------------:|
+|    alex lau     |    bastien guyonnet      |  eagle eyewatch |
+| **engn33r** |    j montenegro      |   mpalhas         |       
+|  oliver chalk  | **peep** |     saran g parikh     |  
+|    **sjkelleyjr**    |      smoothbot         |       stermi           |
+|zokunei|||
+
+*_became a resident_
+
+## Block 3 June 2022
+
+||||
+|:--------------:|:-------------:|:----------------:|
+|ashiq amien |**b samuels**  |**blockdev**|
+|chaalex     |**devtooligan**|dhairya rkp|
+|jib         |koby hall      |li yufei|
+|pashov krum |ranchen        |sahar aplo|
+|shukla ayush|**usmann**        |       |
+
+*_became a resident_
+
+## Block 4 November 2022
+
+_ongoing_
+
+
+
+
+
+
