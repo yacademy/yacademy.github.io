@@ -4,8 +4,13 @@ layout: default
 has_children: false
 nav_order: 6
 ---
+# Core
+* [Ali Atiia](https://twitter.com/aliatiia_)
+* [Engn33r](https://twitter.com/bl4ckb1rd71)
+* Invader
+* [Thraull](https://twitter.com/traull)
 
-# Active Residents (Partial List)
+# Residents 
 
 * [blockdev](https://twitter.com/blockdeveth)
 * [devtooligan](https://twitter.com/devtooligan)
