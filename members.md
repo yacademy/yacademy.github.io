@@ -6,7 +6,7 @@ nav_order: 6
 ---
 # Core
 * [Ali Atiia](https://twitter.com/aliatiia_)
-* [Engn33r](https://twitter.com/bl4ckb1rd71)
+* [engn33r](https://twitter.com/bl4ckb1rd71)
 * Invader
 * [Thraull](https://twitter.com/traull)
 
