@@ -44,9 +44,9 @@ nav_order: 6
 ||||
 |:--------------:|:-------------:|:----------------:|
 |    alex lau     |    bastien guyonnet      |  eagle eyewatch |
-| **engn33r** |    j montenegro      |   mpalhas         |       
-|  oliver chalk  | **peep** |     saran g parikh     |  
-|    **sjkelleyjr**    |      smoothbot         |       stermi           |
+| **engn33r*** |    j montenegro      |   mpalhas         |       
+|  oliver chalk  | **peep*** |     saran g parikh     |  
+|    **sjkelleyjr***    |      smoothbot         |       stermi           |
 |zokunei|||
 
 *_became a resident_
@@ -55,11 +55,11 @@ nav_order: 6
 
 ||||
 |:--------------:|:-------------:|:----------------:|
-|ashiq amien |**b samuels**  |**blockdev**|
-|chaalex     |**devtooligan**|dhairya rkp|
+|ashiq amien |**b samuels***  |**blockdev***|
+|chaalex     |**devtooligan***|dhairya rkp|
 |jib         |koby hall      |li yufei|
 |pashov krum |ranchen        |sahar aplo|
-|shukla ayush|**usmann**        |       |
+|shukla ayush|**usmann***        |       |
 
 *_became a resident_
 
