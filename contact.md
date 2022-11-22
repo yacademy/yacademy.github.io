@@ -5,7 +5,7 @@ has_children: false
 nav_order: 6
 ---
 
-You can reach us at: **hello** AT **yacademy** DOT **dev**
+You can reach us at: **team** AT **yacademy** DOT **dev**
 
 
 If your are interested in our fellowship programs, [click here](/fellowship-program)
