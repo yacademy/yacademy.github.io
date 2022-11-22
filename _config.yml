@@ -47,9 +47,9 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
- "View Our Completed Reports":
-   - "https://reports.yacademy.dev"
+# aux_links:
+# "View Our Completed Reports":
+#   - "https://reports.yacademy.dev"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -57,6 +57,13 @@ aux_links_new_tab: false
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# External navigation links
+nav_external_links:
+  - title: Completed Reports
+    url: https://reports.yacademy.dev/
+  - title: Proxies Research
+    url: https://proxies.yacademy.dev/
 
 # Footer content
 # appears at the bottom of every page's main content
