@@ -46,5 +46,6 @@ td, th {
 <span class="fs-2"> [Auditing Services](/auditing-services){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Fellowship Program](/fellowship-program){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Guest Auditor Program](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Contact](/contact){: .btn .btn-green } </span> 
-<!-- markdown-link-check-enable -->
+
+<span class="fs-2"> [Completed Reports](https://reports.yacademy.dev/){: .btn .btn-blue } </span> &nbsp;
+<span class="fs-2"> [Proxies Research](https://proxies.yacademy.dev/){: .btn .btn-blue } </span> &nbsp;
