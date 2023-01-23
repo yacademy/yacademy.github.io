@@ -27,7 +27,7 @@ nav_order: 6
 
 # Fellows
 
-## Block 1 October 2021
+## Block 1 - October 2021
 
 |||| 
 |:--------------:|:-------------:|:----------------:|    
@@ -39,7 +39,7 @@ nav_order: 6
 *_became a resident_
 
 
-## Block 2 April 2022
+## Block 2 - April 2022
 
 ||||
 |:--------------:|:-------------:|:----------------:|
@@ -51,7 +51,7 @@ nav_order: 6
 
 *_became a resident_
 
-## Block 3 June 2022
+## Block 3 - June 2022
 
 ||||
 |:--------------:|:-------------:|:----------------:|
@@ -63,9 +63,16 @@ nav_order: 6
 
 *_became a resident_
 
-## Block 4 November 2022
+## Block 4 - November 2022
 
-_ongoing_
+||||
+|:--------------:|:-------------:|:----------------:|
+|0xrishabh |Alberto |baconpancakes |
+|DecorativePineapple |DefSec |Dravee |
+|hasanza |Kuldeep |luzzif |
+|maxime|nuhhtyy |pandadefi |
+|Parth|prady |PraneshASP |
+|shung|slowfi |spalen |
 
 
 
