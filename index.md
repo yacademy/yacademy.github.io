@@ -20,7 +20,7 @@ td, th {
                 
 
                 <h4><b>Projects:</b></h4>
-                
+                <!-- markdown-link-check-disable -->
                 Get your codebase audited by our auditors, residents, and fellows: <a href="/auditing-services">Learn more and submit your code.</a>
 
                 <h4><b>Fellows:</b></h4>
