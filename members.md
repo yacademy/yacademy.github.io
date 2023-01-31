@@ -13,17 +13,16 @@ nav_order: 6
 # Residents 
 
 * [blockdev](https://twitter.com/blockdeveth)
-* [devtooligan](https://twitter.com/devtooligan)
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * NibblerExpress
 * [sjkelleyjr](https://twitter.com/sjkelleyjr)
 * [Usmann](https://twitter.com/usmannk)
 
 # Alumni Residents
+* [devtooligan](https://twitter.com/devtooligan)
+* [stermi](https://twitter.com/StErMi)
+* [peep](https://twitter.com/XianganH)
 
-||||
-|:--------------:|:-------------:|:----------------:| 
-|stermi|peep||
 
 # Fellows
 
