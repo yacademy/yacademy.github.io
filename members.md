@@ -22,6 +22,7 @@ nav_order: 6
 * [devtooligan](https://twitter.com/devtooligan)
 * [stermi](https://twitter.com/StErMi)
 * [peep](https://twitter.com/XianganH)
+* [B Samuels](https://twitter.com/thebensams)
 
 
 # Fellows
@@ -54,7 +55,7 @@ nav_order: 6
 
 ||||
 |:--------------:|:-------------:|:----------------:|
-|ashiq amien |**b samuels***  |**blockdev***|
+|ashiq amien |**B Samuels***  |**blockdev***|
 |chaalex     |**devtooligan***|dhairya rkp|
 |jib         |koby hall      |li yufei|
 |pashov krum |ranchen        |sahar aplo|
