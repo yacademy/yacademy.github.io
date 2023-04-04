@@ -31,6 +31,14 @@ td, th {
                 
                 Be our guest auditor during one of our auditing sprints. You will lead the fellows (for 1-2 weeks), with full support from our resident auditors and admin staff.  <a href="/guest-auditor-program">Learn more and apply.</a>
 
+
+                <h4><b>Looking for yAudit?</b></h4> 
+                
+                In April 2023, yAcademy's auditing arm rebranded as <a href="https://yaudit.dev/">yAudit</a>
+				to better distinguish between code reviews done with residents and fellows (yAcademy)
+				and code reviews done solely by our expert resident auditors.
+				yAudit has <a href="https://yaudit.dev/">a separate website</a> and <a href="https://reports.yaudit.dev/">a separate reports page</a>.
+
       
                 <br>
 
@@ -47,5 +55,6 @@ td, th {
 <span class="fs-2"> [Fellowship Program](/fellowship-program){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Guest Auditor Program](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
 
+<span class="fs-2"> [yAudit Homepage](https://yaudit.dev/){: .btn .btn-blue } </span> &nbsp;
 <span class="fs-2"> [Completed Reports](https://reports.yacademy.dev/){: .btn .btn-blue } </span> &nbsp;
 <span class="fs-2"> [Proxies Research](https://proxies.yacademy.dev/){: .btn .btn-blue } </span> &nbsp;

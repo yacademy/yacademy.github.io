@@ -4,6 +4,7 @@ layout: default
 has_children: false
 nav_order: 6
 ---
+
 # Core
 * [Ali Atiia](https://twitter.com/aliatiia_)
 * [engn33r](https://twitter.com/bl4ckb1rd71)
@@ -17,6 +18,9 @@ nav_order: 6
 * NibblerExpress
 * [sjkelleyjr](https://twitter.com/sjkelleyjr)
 * [Usmann](https://twitter.com/usmannk)
+* [prady](https://twitter.com/prady_v)
+* [panda](https://twitter.com/pandadfi)
+* [spalen](https://github.com/spalen0)
 
 # Alumni Residents
 * [devtooligan](https://twitter.com/devtooligan)
@@ -74,8 +78,8 @@ nav_order: 6
 |Parth|prady |PraneshASP |
 |shung|slowfi |spalen |
 
+## Block 5 - April 2023
 
-
-
+**Coming soon**
 
 

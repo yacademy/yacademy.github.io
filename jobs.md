@@ -7,8 +7,6 @@ nav_order: 5
 
 # Open positions
 
-<br>
-
 ## Operations and Communications Lead
 
 
