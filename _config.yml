@@ -64,6 +64,10 @@ nav_external_links:
     url: https://reports.yacademy.dev/
   - title: Proxies Research
     url: https://proxies.yacademy.dev/
+  - title: ">_ yAudit Website"
+    url: https://yaudit.dev/
+  - title: ">_ yAudit Reports"
+    url: https://reports.yaudit.dev/
 
 # Footer content
 # appears at the bottom of every page's main content
