@@ -68,7 +68,7 @@ td, th {
                 <h4><b>Apply as a fellow:</b></h4>
 
                     If you are a developer or a researcher who is very fluent in programming, you may qualify.
-					<a href="/fellowship-program">Learn more and apply</a>.<br><br>
+					<a href="/fellowships">Learn more and apply</a>.<br><br>
 
                 <h4><b>Apply as a guest auditor:</b></h4>
 

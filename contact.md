@@ -7,11 +7,9 @@ nav_order: 7
 
 You can reach us at: **hello** AT **yacademy** DOT **dev**
 
-<!-- markdown-link-check-disable -->
-If your are interested in our fellowship programs, [click here](/fellowship-program)
+If you are interested in our fellowship programs, [click here](/fellowships)
 
 If you are interested in our guest auditor program, [click here](/guest-auditor-program)
-<!-- markdown-link-check-enable -->
 
 If you are interested in becoming a contributor to yAcademy, email us with your thoughts and we'll send you an invite to our community.
 

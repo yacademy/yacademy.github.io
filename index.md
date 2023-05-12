@@ -25,7 +25,7 @@ td, th {
 
                 <h4><b>Fellows:</b></h4>
                  
-                Join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowship-program">Learn more and apply.</a>
+                Join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowships">Learn more and apply.</a>
 
                 <h4><b>Auditors:</b></h4> 
                 
@@ -52,7 +52,7 @@ td, th {
 </div>
     
 <span class="fs-2"> [Auditing Services](/auditing-services){: .btn .btn-green } </span> &nbsp;
-<span class="fs-2"> [Fellowship Program](/fellowship-program){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Fellowship Program](/fellowships){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Guest Auditor Program](/guest-auditor-program){: .btn .btn-green } </span> &nbsp;
 
 <span class="fs-2"> [yAudit Homepage](https://yaudit.dev/){: .btn .btn-blue } </span> &nbsp;
