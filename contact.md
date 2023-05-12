@@ -7,7 +7,7 @@ nav_order: 7
 
 You can reach us at: **hello** AT **yacademy** DOT **dev**
 
-If your are interested in our fellowship programs, [click here](/fellowships)
+If you are interested in our fellowship programs, [click here](/fellowships)
 
 If you are interested in our guest auditor program, [click here](/guest-auditor-program)
 
