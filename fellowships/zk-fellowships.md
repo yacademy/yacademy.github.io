@@ -24,6 +24,11 @@ Subsequent blocks will take place on an ongoing "rolling" basis. We may go slow 
 Developments in ZK proving systems will also inform our choice of what theory and implementations we choose in subsequent blocks after the pilot. Tentatively, and this may be subject to change, we plan to look at Halo2 in July/August 2023.
 
 <br>
+<span class="fs-5"><span class="fw-700"><span class="text-blue-100">Pre-requisites:</span></span></span> 
+
+Other than the [general](/fellowships) requirements, no prior ZK knowledge is required. 
+
+<br>
 <span class="fs-5"><span class="fw-700"><span class="text-blue-100">A typical week in the fellowship program:</span></span></span>
 
 
