@@ -1,5 +1,15 @@
 {
   "retryCount": 3,
   "fallbackRetryDelay": "10s",
-  "aliveStatusCodes": [200, 429]
+  "aliveStatusCodes": [200, 429],
+  "ignorePatterns": [
+    {
+      "pattern": "^https://twitter.com",
+	  "pattern": "/fellowships",
+	  "pattern": "/guest-auditor-program",
+	  "pattern": "/fellowships/zk-fellowships",
+	  "pattern": "/fellowships/zk-application",
+	  "pattern": "/fellowships/smart-contract-fellowships"
+	}
+	]
 }
