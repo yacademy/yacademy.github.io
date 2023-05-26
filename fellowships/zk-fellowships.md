@@ -9,6 +9,10 @@ parent: Fellowships
 
 <br>
 
+**Applications for the Pilot ZK Fellowhip is CLOSED but you can still apply and you will be contacted for the next fellowship **
+
+<br>
+
 <span class="fs-5"><span class="fw-700"><span class="text-blue-100">Commitment:</span></span></span> 
 
 The time commitment is **>=20 hours per week**.
