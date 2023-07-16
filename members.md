@@ -86,13 +86,14 @@ nav_order: 6
 ## ZK Block 1 - June 2023
 ||||
 |:--------------:|:-------------:|:----------------:|
-|0xnagu|Bahurum|curiousapple|
-|Chen Wen Kang|Igor Line|nullity |
-|Oba|Vincent Owen|Pratyush Ranjan Tiwari|
-|Antonio Viggiano|whoismatthewmc| |
+| [0xnagu](https://github.com/thogiti) | [Bahurum](https://github.com/bahurum)|  [curiousapple](https://github.com/abhishekvispute) |
+| [Chen Wen Kang](https://github.com/cwkang1998) | [Igor Line](https://github.com/igorline) | [lwltea](https://github.com/lwltea)  |
+| [nullity](https://github.com/nullity00) | [Oba](https://github.com/obatirou) | [Vincent Owen](https://github.com/makluganteng)   |
+| [parsley](https://github.com/bbresearcher)   | [Rajesh](https://github.com/RajeshRk18)   | [Pratyush Ranjan Tiwari](https://github.com/PratyushRT)   |
+| [Antonio Viggiano](https://github.com/aviggiano) | [whoismatthewmc](https://github.com/whoismatthewmc1) | |
 
 
-
+  
 
 
 
