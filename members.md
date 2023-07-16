@@ -83,3 +83,21 @@ nav_order: 6
 **Coming soon**
 
 
+## ZK Block 1 - June 2023
+||||
+|:--------------:|:-------------:|:----------------:|
+|0xnagu|Bahurum|curiousapple|
+|Chen Wen Kang|Igor Line|nullity |
+|Oba|Vincent Owen|Pratyush Ranjan Tiwari|
+|Antonio Viggiano|whoismatthewmc| |
+
+
+
+
+
+
+
+ 
+
+
+
