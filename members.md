@@ -31,27 +31,29 @@ nav_order: 6
 
 # Fellows
 
-## Block 1 - October 2021
+## ZK Block 1 - June 2023
+||||
+|:--------------:|:-------------:|:----------------:|
+| [0xnagu](https://github.com/thogiti) | [Bahurum](https://github.com/bahurum)|  [curiousapple](https://github.com/abhishekvispute) |
+| [Chen Wen Kang](https://github.com/cwkang1998) | [Igor Line](https://github.com/igorline) | [lwltea](https://github.com/lwltea)  |
+| [nullity](https://github.com/nullity00) | [Oba](https://github.com/obatirou) | [Vincent Owen](https://github.com/makluganteng)   |
+| [parsley](https://github.com/bbresearcher)   | [Rajesh](https://github.com/RajeshRk18)   | [Pratyush Ranjan Tiwari](https://github.com/PratyushRT)   |
+| [Antonio Viggiano](https://github.com/aviggiano) | [whoismatthewmc](https://github.com/whoismatthewmc1) | |
 
-|||| 
-|:--------------:|:-------------:|:----------------:|    
-| Amanusk        |  bebis        |  Bob the Builder | 
-| Carl Farterson |  Dhurv        | Goober           |       
-| **Invader***   |  **Nibbler*** | Redbeard         |  
+## Block 5 - April 2023
 
+**Coming soon**
 
-*_became a resident_
-
-
-## Block 2 - April 2022
+## Block 4 - November 2022
 
 ||||
 |:--------------:|:-------------:|:----------------:|
-|    alex lau     |    bastien guyonnet      |  eagle eyewatch |
-| **engn33r*** |    j montenegro      |   mpalhas         |       
-|  oliver chalk  | **peep*** |     saran g parikh     |  
-|    **sjkelleyjr***    |      smoothbot         |       stermi           |
-|zokunei|||
+|0xrishabh |Alberto |baconpancakes |
+|DecorativePineapple |DefSec |Dravee |
+|hasanza |Kuldeep |luzzif |
+|maxime|nuhhtyy |pandadefi |
+|Parth|prady |PraneshASP |
+|shung|slowfi |spalen* |
 
 *_became a resident_
 
@@ -67,19 +69,26 @@ nav_order: 6
 
 *_became a resident_
 
-## Block 4 - November 2022
+## Block 2 - April 2022
 
 ||||
 |:--------------:|:-------------:|:----------------:|
-|0xrishabh |Alberto |baconpancakes |
-|DecorativePineapple |DefSec |Dravee |
-|hasanza |Kuldeep |luzzif |
-|maxime|nuhhtyy |pandadefi |
-|Parth|prady |PraneshASP |
-|shung|slowfi |spalen |
+|    alex lau     |    bastien guyonnet      |  eagle eyewatch |
+| **engn33r*** |    j montenegro      |   mpalhas         |       
+|  oliver chalk  | **peep*** |     saran g parikh     |  
+|    **sjkelleyjr***    |      smoothbot         |       stermi           |
+|zokunei|||
 
-## Block 5 - April 2023
+*_became a resident_
 
-**Coming soon**
+## Block 1 - October 2021
 
+|||| 
+|:--------------:|:-------------:|:----------------:|    
+| Amanusk        |  bebis        |  Bob the Builder | 
+| Carl Farterson |  Dhurv        | Goober           |       
+| **Invader***   |  **Nibbler*** | Redbeard         |  
+
+
+*_became a resident_
 
