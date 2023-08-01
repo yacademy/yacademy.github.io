@@ -9,7 +9,6 @@ nav_order: 6
 * [Ali Atiia](https://twitter.com/aliatiia_)
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * Invader
-* [Thraull](https://twitter.com/traull)
 
 # Residents 
 
@@ -32,6 +31,7 @@ nav_order: 6
 # Fellows
 
 ## ZK Block 1 - June 2023
+
 ||||
 |:--------------:|:-------------:|:----------------:|
 | [0xnagu](https://github.com/thogiti) | [Bahurum](https://github.com/bahurum)|  [curiousapple](https://github.com/abhishekvispute) |
@@ -42,7 +42,13 @@ nav_order: 6
 
 ## Block 5 - April 2023
 
-**Coming soon**
+||||
+|:--------------:|:-------------:|:----------------:|
+|Saplen*|pandadefi*|prady|
+|PraneshASP|hasanza||
+
+*_promoted to resident_
+
 
 ## Block 4 - November 2022
 
@@ -55,7 +61,7 @@ nav_order: 6
 |Parth|prady |PraneshASP |
 |shung|slowfi |spalen* |
 
-*_became a resident_
+*_promoted to resident_
 
 ## Block 3 - June 2022
 
@@ -67,7 +73,7 @@ nav_order: 6
 |pashov krum |ranchen        |sahar aplo|
 |shukla ayush|**usmann***        |       |
 
-*_became a resident_
+*_promoted to resident_
 
 ## Block 2 - April 2022
 
@@ -79,7 +85,7 @@ nav_order: 6
 |    **sjkelleyjr***    |      smoothbot         |       stermi           |
 |zokunei|||
 
-*_became a resident_
+*_promoted to resident_
 
 ## Block 1 - October 2021
 
@@ -90,5 +96,5 @@ nav_order: 6
 | **Invader***   |  **Nibbler*** | Redbeard         |  
 
 
-*_became a resident_
+*_promoted to resident_
 
