@@ -8,11 +8,11 @@ has_toc: false
 
 # Fellowship Programs
 
-yAcademy fellowships are <span class="fs-5"><span class="fw-700"><span class="text-red-300">not</span></span></span> introductory programs to software auditing. They are trial-by-fire programs where you will audit pre-production or production codebases, and the stakes are very high. 
+yAcademy fellowships are <span class="fs-5"><span class="fw-700"><span class="text-red-300">not</span></span></span> introductory programs to software auditing. They are trial-by-fire programs where you will audit pre-production or in-production codebases, and the stakes are very high. 
 
 * You will be auditing alongside our residents, guest auditors, and mentors.
 
-* You will be expected to participate and add value to the discussions.
+* You will be expected to participate, add value to the discussions, and submit reports.
 
 * You will be expected to be fluent at setting up test environments, and running common tools.
 

@@ -1,0 +1,85 @@
+.tab-container {
+    //border: 1px solid #ccc;
+    border: none;
+    padding: 20px;
+  }
+  
+  .tab-button {
+    background-color: #f9f7f7;
+    border: none;
+    padding: 30px 60px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .tab-button.active {
+    background-color: #acb501;
+    color: #ffffff;
+  }
+  
+  .tab-content {
+    display: none;
+  }
+  
+  .inner-tab-container {
+    margin-top: 30px;
+    border:none;
+  }
+  
+  .inner-tab-button {
+    background-color: #f6f3f3;
+    border: none;
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .inner-tab-button.active {
+    background-color: #ff0999;
+    color: #ffffff;
+  }
+  
+  .inner-tab-content {
+    display: none;
+  }
+  
+  .padded-list {
+    padding: 1px 5px;
+    color: #0078e2;
+  }
+  .badge-vid {
+    background-color: rgb(27, 49, 168);
+    color: white;
+    padding: 3px 4px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  .badge-slides {
+    background-color: rgb(56, 150, 12);
+    color: white;
+    padding: 3px 4px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  .badge-chat {
+    background-color: rgb(70, 255, 237);
+    color: white;
+    padding: 3px 4px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  .badge-discord {
+    background-color: rgb(169, 172, 171);
+    color: white;
+    padding: 3px 4px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  .badge-links{
+    text-decoration: none;
+    color:white; 
+  }

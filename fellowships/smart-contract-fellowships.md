@@ -1,8 +1,9 @@
 ---
-title: Smart Contract Fellowships
+title: Smart Contracts
 layout: default
 has_children: false
 parent: Fellowships
+nav_order: 1
 ---
 <br>
 

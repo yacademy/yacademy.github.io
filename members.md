@@ -9,7 +9,6 @@ nav_order: 6
 * [Ali Atiia](https://twitter.com/aliatiia_)
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * Invader
-* [Thraull](https://twitter.com/traull)
 
 # Residents 
 
@@ -45,6 +44,7 @@ nav_order: 6
 
 **Coming soon**
 
+
 ## Block 4 - November 2022
 
 ||||
@@ -56,7 +56,7 @@ nav_order: 6
 |Parth|prady |PraneshASP |
 |shung|slowfi |spalen* |
 
-*_became a resident_
+*_promoted to resident_
 
 ## Block 3 - June 2022
 
@@ -68,7 +68,7 @@ nav_order: 6
 |pashov krum |ranchen        |sahar aplo|
 |shukla ayush|**usmann***        |       |
 
-*_became a resident_
+*_promoted to resident_
 
 ## Block 2 - April 2022
 
@@ -80,7 +80,9 @@ nav_order: 6
 |    **sjkelleyjr***    |      smoothbot         |       stermi           |
 |zokunei|||
 
-*_became a resident_
+
+*_promoted to resident_
+
 
 ## Block 1 - October 2021
 
@@ -91,5 +93,7 @@ nav_order: 6
 | **Invader***   |  **Nibbler*** | Redbeard         |  
 
 
-*_became a resident_
+
+*_promoted to resident_
+
 
