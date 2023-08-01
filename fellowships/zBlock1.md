@@ -9,7 +9,7 @@ grand_parent: Fellowships
 {: .fs-5 .text-blue-000 }
 <br>
 **To sponsor this fellowship, please reach out to**: zk@yacademy.dev
-{: .text-red-200 }
+{: .text-green-200 }
 
 <!---<div class="tile-container">
   <div class="tile1">Tile 1</div>
