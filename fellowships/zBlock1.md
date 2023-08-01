@@ -4,10 +4,12 @@ layout: default
 parent: Zero-Knowledge
 grand_parent: Fellowships
 ---
-<br>
+
 #### **1st ZK Auditing Fellowship &nbsp;&nbsp; | &nbsp;&nbsp; May 27th - July 6th 2023**
 {: .fs-5 .text-blue-000 }
 <br>
+**To sponsor this fellowship, please reach out to**: zk@yacademy.dev
+{: .text-red-200 }
 
 <!---<div class="tile-container">
   <div class="tile1">Tile 1</div>
