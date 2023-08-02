@@ -42,7 +42,16 @@ nav_order: 6
 
 ## Block 5 - April 2023
 
-**Coming soon**
+||||
+|:--------------:|:-------------:|:----------------:|
+| 0xAdrii | 0xc0ffEE  | 0xl3xx |
+| 0xRajkumar | 0xvj | adriro |
+| Bahurum | cinnamonbread | coincoin |
+| ctrlc03 | eccentricexit | f_f |
+| HHK | Jat | ljmanini |
+| Markus | popular | supernova |
+| themystery | Toshii | vnmartz.eth |
+|zaskoh | | |
 
 
 ## Block 4 - November 2022
