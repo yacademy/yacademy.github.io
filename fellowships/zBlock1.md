@@ -18,9 +18,9 @@ grand_parent: Fellowships
 </div>-->
 
 <div class="tab-container">
-  <button class="tab-button" onclick="openTab(event, 'tab1')"><b>Module 1</b></button>
-  <button class="tab-button" onclick="openTab(event, 'tab2')"><b>Module 2</b></button>
-  <button class="tab-button" onclick="openTab(event, 'tab3')"><b>Module 3</b></button>
+  <button class="tab-button" onclick="openTab(event, 'tab1')"><b>Module 1</b></button>&nbsp;&nbsp;
+  <button class="tab-button" onclick="openTab(event, 'tab2')"><b>Module 2</b></button>&nbsp;&nbsp;
+  <button class="tab-button" onclick="openTab(event, 'tab3')"><b>Module 3</b></button>&nbsp;&nbsp;
 
   <div id="tab1" class="tab-content">
     <h10> &nbsp;</h10>
