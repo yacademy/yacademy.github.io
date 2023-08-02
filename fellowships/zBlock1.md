@@ -18,9 +18,9 @@ grand_parent: Fellowships
 </div>-->
 
 <div class="tab-container">
-  <button class="tab-button" onclick="openTab(event, 'tab1')"><b>Module 1</b></button>&nbsp;&nbsp;&nbsp;
-  <button class="tab-button" onclick="openTab(event, 'tab2')"><b>Module 2</b></button>&nbsp;&nbsp;&nbsp;
-  <button class="tab-button" onclick="openTab(event, 'tab3')"><b>Module 3</b></button>&nbsp;&nbsp;&nbsp;
+  <button class="tab-button" onclick="openTab(event, 'tab1')"><b>Module 1</b></button>
+  <button class="tab-button" onclick="openTab(event, 'tab2')"><b>Module 2</b></button>
+  <button class="tab-button" onclick="openTab(event, 'tab3')"><b>Module 3</b></button>
 
   <div id="tab1" class="tab-content">
     <h10> &nbsp;</h10>
@@ -39,7 +39,7 @@ grand_parent: Fellowships
             <span class="badge-vid"><a href="https://youtu.be/jDTRoFfdMio" class="badge-links" target="blank">Recording</a></span>
             <span class="badge-slides"><a href="https://docs.google.com/presentation/d/1QeC4c3-xxEx27wX4Q-iWcowCdUws1lpufLIjjvlN_BE/edit#slide=id.g24a1e8131f4_0_0" class="badge-links" target="blank">Slides</a></span>
             <span class="badge-chat"><a href="https://docs.google.com/document/d/1sRCYZeG786H5fxZ1jMCp_XzlqQbxB3MZ2MmZ4tJNn-A/edit" class="badge-links" target="blank">Chat</a></span></p>
-        <p class="padded-list"><b>3. Gödel reduction: provability</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <p class="padded-list"><b>3. Gödel reduction: provability</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <span class="badge-vid"><a href="https://youtu.be/PI_G3IASdiw" class="badge-links" target="blank">Recording</a></span>
             <span class="badge-slides"><a href="https://docs.google.com/presentation/d/1IerLvER_WEEJIswZB25ACb531D9QrctB-F_FYFNG1ag/edit#slide=id.g24b1f7a1ab9_0_92" class="badge-links" target="blank">Slides</a></span></p>
         <p class="padded-list"><b>4. Turing reduction: universality, decidability</b>&nbsp;
