@@ -62,8 +62,8 @@ nav_order: 6
 |DecorativePineapple |DefSec |Dravee |
 |hasanza |Kuldeep |luzzif |
 |maxime|nuhhtyy |pandadefi |
-|Parth|prady |PraneshASP |
-|shung|slowfi |spalen* |
+|Parth| **prady*** |PraneshASP |
+|shung|slowfi |**spalen*** |
 
 *_promoted to resident_
 
