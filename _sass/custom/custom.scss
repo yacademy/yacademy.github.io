@@ -1,14 +1,14 @@
 .tab-container {
     //border: 1px solid #ccc;
     border: none;
-    padding: 15px;
+    padding: 2%;
   }
   
   .tab-button {
     background-color: #f9f7f7;
     border: none;
-    padding: 30px 60px;
-    font-size: 20px;
+    padding: 4% 6%;
+    font-size: 150%;
     cursor: pointer;
   }
   
@@ -22,15 +22,15 @@
   }
   
   .inner-tab-container {
-    margin-top: 30px;
+    margin-top: 5%;
     border:none;
   }
   
   .inner-tab-button {
     background-color: #f6f3f3;
     border: none;
-    padding: 15px 25px;
-    font-size: 16px;
+    padding: 3% 5%;
+    font-size: 100%;
     cursor: pointer;
   }
   
@@ -44,39 +44,39 @@
   }
   
   .padded-list {
-    padding: 1px 5px;
+    padding: 1% 1%;
     color: #0078e2;
   }
   .badge-vid {
     background-color: rgb(27, 49, 168);
     color: white;
-    padding: 3px 4px;
+    padding: 1% 1%;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 30%;
     text-decoration: none;
   }
   .badge-slides {
     background-color: rgb(56, 150, 12);
     color: white;
-    padding: 3px 4px;
+    padding: 1% 1%;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 30%;
     text-decoration: none;
   }
   .badge-chat {
-    background-color: rgb(70, 255, 237);
+    background-color: rgb(9, 249, 225);
     color: white;
-    padding: 3px 4px;
+    padding: 1% 1%;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 30%;
     text-decoration: none;
   }
   .badge-discord {
     background-color: rgb(169, 172, 171);
     color: white;
-    padding: 3px 4px;
+    padding: 1% 1%;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 30%;
     text-decoration: none;
   }
   .badge-links{
