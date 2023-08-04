@@ -51,7 +51,7 @@ grand_parent: Fellowships
       </div>
       <div id="innerTab2" class="inner-tab-content" style="display: none;">
         <br>
-        <p class="padded-list"><b>- Discussion channel: <span style="font-family: 'Courier New', Courier, monospace;background-color:grey;color:white;padding: 5px 10px"><a href="https://discord.gg/rGDvVpqCcK" class="badge-links" target="blank">module-1-zk-context</a></span></b></p>
+        <p class="padded-list"><b>- Discussion channel: <span style="font-family: 'Courier New', Courier, monospace;"><a href="https://discord.gg/rGDvVpqCcK" class="badge-discord" target="blank">module-1-zk-context</a></span></b></p>
       </div>
       <div id="innerTab3" class="inner-tab-content" style="display: none;">
         <br>
@@ -90,7 +90,7 @@ grand_parent: Fellowships
       </div>
       <div id="innerTab6" class="inner-tab-content" style="display: none;">
         <br>
-        <p class="padded-list"><b>- Discussion channel: <span style="font-family: 'Courier New', Courier, monospace;background-color:grey;color:white;padding: 5px 10px"><a href="https://discord.gg/Y8ccpfcYmq" class="badge-links" target="blank">module-2-rln-audit</a></span></b></p>
+        <p class="padded-list"><b>- Discussion channel: <span style="font-family: 'Courier New', Courier, monospace;"><a href="https://discord.gg/Y8ccpfcYmq" class="badge-discord" target="blank">module-2-rln-audit</a></span></b></p>
       </div>
       <div id="innerTab7" class="inner-tab-content" style="display: none;">
         <br>
@@ -102,7 +102,7 @@ grand_parent: Fellowships
             <span class="badge-vid"><a href="https://youtu.be/Hz_XHfxunck" class="badge-links" target="blank">Recording</a></span>
             <span class="badge-slides"><a href="https://docs.google.com/presentation/d/1vYUiNYv8PRI2SVEKC3uz54I475d79E9XxvCWwkC7kPQ/edit#slide=id.p" class="badge-links" target="blank">Slides</a></span>
             <span class="badge-chat"><a href="https://docs.google.com/document/d/1yBDv_zGvZZUAc2OmwVLBMfc4uwBjw68ermzUwMXhFP4/edit" class="badge-links" target="blank">Chat</a></span>
-            <span class="badge-discord"><a href="https://discord.gg/5AsHarf4WH" class="badge-links" target="blank">Discussion channel</a></span></p>
+            <span class="badge-discord"><a href="https://discord.gg/5AsHarf4WH" class="badge-discord" target="blank">Discussion channel</a></span></p>
       </div>
       <div id="innerTab8" class="inner-tab-content" style="display: none;">
         <br>
@@ -143,7 +143,7 @@ grand_parent: Fellowships
       </div>
       <div id="innerTab10" class="inner-tab-content" style="display: none;">
         <br>
-        <p class="padded-list"><b>- Discussion channel: <span style="font-family: 'Courier New', Courier, monospace;background-color:grey;color:white;padding: 5px 10px"><a href="https://discord.gg/qJuc7TD6VQ" class="badge-links" target="blank">module-3-spartan-audit</a></span></b></p>
+        <p class="padded-list"><b>- Discussion channel: <span style="font-family: 'Courier New', Courier, monospace;"><a href="https://discord.gg/qJuc7TD6VQ" class="badge-discord" target="blank">module-3-spartan-audit</a></span></b></p>
       </div>
       <div id="innerTab11" class="inner-tab-content" style="display: none;">
         <br>
@@ -164,3 +164,4 @@ grand_parent: Fellowships
     </div>
   </div>
 </div>
+
