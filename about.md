@@ -65,21 +65,7 @@ td, th {
                 * No time is wasted authoring educational materials: this is a trial-by-fire type of situation, mentees learn by walking along the auditing process of <b>real pre- or in-production contracts</b>. <br><br>
 
 
-                <h4><b>Apply as a fellow:</b></h4>
-
-                    If you are a developer or a researcher who is very fluent in programming, you may qualify.
-					<a href="/fellowships">Learn more and apply</a>.<br><br>
-
-                <h4><b>Apply as a guest auditor:</b></h4>
-
-                    If you are a bug bounty hunter with a track record, a security researcher, or a full-time auditor, you may qualify to join our Guest Auditor program. 
-                    <a href="/guest-auditor-program">Learn more and apply</a>.<br>
-
-                <h4><b>Apply as a yAcademy contributor:</b></h4>
-
-                    None of yAcademy core contributors were "hired". They all jumped in and started contributing in one or more aspects: auditing, documentation, recruitment, or ops and comms.<br>
-
-                If you are eager to contribute in one or more areas but don't know how to break in, <a href="/contact">reach out and tell us more about yourself</a>.<br><br>
+               
 
 
             </td>
