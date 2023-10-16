@@ -34,13 +34,9 @@ td, th {
 
                 -->
 
-                <h4><b>Looking for yAudit?</b></h4> 
+                <h4><b>Need an Audit Immediately?</b></h4> 
                 
-                In April 2023, yAcademy's auditing arm rebranded as <a href="https://yaudit.dev/">yAudit</a>
-				to better distinguish between code reviews done with residents and fellows (yAcademy)
-				and code reviews done solely by our expert resident auditors.
-				yAudit has <a href="https://yaudit.dev/">a separate website</a> and <a href="https://reports.yaudit.dev/">a separate reports page</a>.
-
+                Our resident auditors at <a href="https://yaudit.dev/">yAudit</a> can take it on: <a href="https://yaudit.dev/#contact">request</a> an audit, view <a href="https://reports.yaudit.dev/">previous reports</a>.
       
                 <br>
 
