@@ -26,11 +26,13 @@ td, th {
                 <h4><b>Fellows:</b></h4>
                  
                 Join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowships">Learn more and apply.</a>
-
+                
+                <!--
                 <h4><b>Auditors:</b></h4> 
                 
                 Be our guest auditor during one of our auditing sprints. You will lead the fellows (for 1-2 weeks), with full support from our resident auditors and admin staff.  <a href="/guest-auditor-program">Learn more and apply.</a>
 
+                -->
 
                 <h4><b>Looking for yAudit?</b></h4> 
                 
