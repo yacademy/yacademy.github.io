@@ -82,7 +82,7 @@ grand_parent: Fellowships
             <span class="badge-chat"><a href="https://docs.google.com/document/d/1WBOeAGRjZQy-6rm_DzzvRmSweYEcsKhXs5hYzOx11lw/edit" class="badge-links" target="blank">Chat</a></span></p>
         <p class="padded-list"><b>3. Audit report & review</b> &nbsp;
             <span class="badge-vid"><a href="https://youtu.be/FcLvM-bb3Ds" class="badge-links" target="blank">Recording</a></span>&nbsp;
-            <span class="badge-slides"><a href="https://github.com/zBlock-1/RLN-audit-report/issues" class="badge-links" target="blank">Audit reports</a></span>
+            <span class="badge-slides"><a href="https://github.com/zBlock-1/RLN-audit-report" class="badge-links" target="blank">Audit reports</a></span>
             <span class="badge-chat"><a href="https://docs.google.com/document/d/1Zw7CnsWzp6H3qJbTwVe6ka0okaaaD8XZXXqGidxdVzg/edit" class="badge-links" target="blank">Chat</a></span></p>
       </div>
       <div id="innerTab6" class="inner-tab-content" style="display: none;">
@@ -103,7 +103,7 @@ grand_parent: Fellowships
       </div>
       <div id="innerTab8" class="inner-tab-content" style="display: none;">
         <br>
-        <p class="padded-list"><b>- <a href="https://github.com/zBlock-1/RLN-audit-report/issues" target="blank">RLN Audit Reports</a></b></p>
+        <p class="padded-list"><b>- <a href="https://github.com/zBlock-1/RLN-audit-report" target="blank">RLN Audit Reports</a></b></p>
       </div>
     </div>
   </div>
@@ -135,7 +135,7 @@ grand_parent: Fellowships
             <span class="badge-chat"><a href="https://docs.google.com/document/d/1vre71efNxszfmU36j-ExQhOuATDCeuzd4Zuht5DKBoY/edit" class="badge-links" target="blank">Chat</a></span></p>
          <p class="padded-list"><b>5. Audit reports & review </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <span class="badge-vid"><a href="https://youtu.be/7D1hV_2G8G0" class="badge-links" target="blank">Recording</a></span>
-            <span class="badge-slides"><a href="https://github.com/zBlock-1/spartan-ecdsa-audit-report/issues" class="badge-links" target="blank">Audit reports</a></span>
+            <span class="badge-slides"><a href="https://github.com/zBlock-1/spartan-ecdsa-audit-report" class="badge-links" target="blank">Audit reports</a></span>
             <span class="badge-chat"><a href="https://docs.google.com/document/d/1UHqRKMftpvMGb6CLgkodtyumgdlcL1PYOIae-QoA_NY/edit" class="badge-links" target="blank">Chat</a></span></p>
       </div>
       <div id="innerTab10" class="inner-tab-content" style="display: none;">
@@ -156,7 +156,7 @@ grand_parent: Fellowships
       </div>
       <div id="innerTab13" class="inner-tab-content" style="display: none;">
        <br>
-        <p class="padded-list"><b>- <a href="https://github.com/zBlock-1/spartan-ecdsa-audit-report/issues" target="blank">Spartan-ECDSA Audit Reports</a></b></p>
+        <p class="padded-list"><b>- <a href="https://github.com/zBlock-1/spartan-ecdsa-audit-report" target="blank">Spartan-ECDSA Audit Reports</a></b></p>
       </div>
     </div>
   </div>
