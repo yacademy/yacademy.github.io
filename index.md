@@ -13,6 +13,8 @@ td, th {
 }
 </style>
 
+<span class="fs-5"><span class="text-red-100">\*\* Application for the 2nd ZK Fellowship is <a href="https://yacademy.dev/fellowships/zk-fellowships/">open</a> \*\* </span></span>
+
 <div>
     <table>
         <tr>
