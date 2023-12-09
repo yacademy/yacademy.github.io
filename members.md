@@ -16,7 +16,6 @@ nav_order: 6
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * NibblerExpress
 * [sjkelleyjr](https://twitter.com/sjkelleyjr)
-* [Usmann](https://twitter.com/usmannk)
 * [prady](https://twitter.com/prady_v)
 * [panda](https://twitter.com/pandadfi)
 * [spalen](https://github.com/spalen0)
@@ -26,6 +25,7 @@ nav_order: 6
 * [stermi](https://twitter.com/StErMi)
 * [peep](https://twitter.com/XianganH)
 * [B Samuels](https://twitter.com/thebensams)
+* [Usmann](https://twitter.com/usmannk)
 
 
 # Fellows
