@@ -59,6 +59,7 @@ If you have questions you want to ask before applying, you may contact at: <br>z
 **If you think you are a good fit for the program (yay!), you may apply here:**
 <br>
 
+<span class="fs-5"><span class="text-red-100">Application for the 2nd ZK Fellowship is now closed, but you can still apply for consideration in the next one.</span></span> 
 
 <span class="fs-8"> [Apply to ZK Fellowships](/fellowships/zk-application){: .btn .btn-blue } </span> &nbsp;
 
