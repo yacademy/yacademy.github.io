@@ -8,7 +8,7 @@ nav_order: 2
 
 # ZK Fellowship Program: 2nd Cohort
 
-<span class="fs-5"><span class="text-red-100">Application for the 2nd ZK Fellowship is open untill <span class="fw-700">December 15th 2023</span></span></span> 
+<span class="fs-5"><span class="text-red-100">Application for the 2nd ZK Fellowship is now closed, but you can still apply for consideration in the next one.</span></span> 
 
 **Quick facts about the 2nd fellowship:**
 
