@@ -19,6 +19,9 @@ nav_order: 6
 * [prady](https://twitter.com/prady_v)
 * [panda](https://twitter.com/pandadfi)
 * [spalen](https://github.com/spalen0)
+* [HHK](https://twitter.com/HHK_ETH)
+* [adriro](https://twitter.com/adrianromero)
+* popular
 
 # Alumni Residents
 * [devtooligan](https://twitter.com/devtooligan)
@@ -45,11 +48,11 @@ nav_order: 6
 ||||
 |:--------------:|:-------------:|:----------------:|
 | 0xAdrii | 0xc0ffEE  | 0xl3xx |
-| 0xRajkumar | 0xvj | adriro |
+| 0xRajkumar | 0xvj | **adriro** |
 | Bahurum | cinnamonbread | coincoin |
 | ctrlc03 | eccentricexit | f_f |
-| HHK | Jat | ljmanini |
-| Markus | popular | supernova |
+| **HHK** | Jat | ljmanini |
+| Markus | **popular** | supernova |
 | themystery | Toshii | vnmartz.eth |
 |zaskoh | | |
 
@@ -61,7 +64,7 @@ nav_order: 6
 |0xrishabh |Alberto |baconpancakes |
 |DecorativePineapple |DefSec |Dravee |
 |hasanza |Kuldeep |luzzif |
-|maxime|nuhhtyy |pandadefi |
+|maxime|nuhhtyy |**pandadefi** |
 |Parth| **prady*** |PraneshASP |
 |shung|slowfi |**spalen*** |
 
