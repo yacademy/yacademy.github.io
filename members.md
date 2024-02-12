@@ -21,6 +21,7 @@ nav_order: 6
 * [spalen](https://github.com/spalen0)
 * [HHK](https://twitter.com/HHK_ETH)
 * [adriro](https://twitter.com/adrianromero)
+* [ljmanini](https://twitter.com/ljmanini)
 * popular
 
 # Alumni Residents
@@ -51,7 +52,7 @@ nav_order: 6
 | 0xRajkumar | 0xvj | **adriro** |
 | Bahurum | cinnamonbread | coincoin |
 | ctrlc03 | eccentricexit | f_f |
-| **HHK** | Jat | ljmanini |
+| **HHK** | Jat | **ljmanini** |
 | Markus | **popular** | supernova |
 | themystery | Toshii | vnmartz.eth |
 |zaskoh | | |
