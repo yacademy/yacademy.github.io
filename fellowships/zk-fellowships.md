@@ -22,6 +22,8 @@ nav_order: 2
 <span class="fs-5"><span class="fw-700"><span class="text-blue-100">Commitment:</span></span></span> 
 
 The time commitment is **>=20 hours per week**.
+<br><br>
+There is a requirement to **stake some ETH** to ensure engagement and participation from all fellows.
 
 <br>
 <span class="fs-5"><span class="fw-700"><span class="text-blue-100">Highlights:</span></span></span> 
