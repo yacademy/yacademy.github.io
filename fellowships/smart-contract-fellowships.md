@@ -40,6 +40,6 @@ Before applying, please make sure you have read and understood the [general stru
 **If you think you are a good fit for the program (yay!), please apply:**
 <br><br>
 
-<span class="fs-7"> [&nbsp;&nbsp;&nbsp;&nbsp;Apply&nbsp;&nbsp;&nbsp;&nbsp;](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform){: .btn .btn-green } </span> &nbsp;
+<span class="fs-7"> [&nbsp;&nbsp;&nbsp;&nbsp;Apply&nbsp;&nbsp;&nbsp;&nbsp;](https://tally.so/r/nG9o6e){: .btn .btn-green } </span> &nbsp;
 
 
