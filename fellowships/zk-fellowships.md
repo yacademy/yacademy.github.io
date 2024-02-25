@@ -6,7 +6,9 @@ nav_order: 2
 ---
 <br>
 
-# ZK Fellowship Program: 2nd Cohort
+### [First Cohort](https://yacademy.dev/fellowships/zBlock1/)
+
+# ZK Fellowship Program: 2nd Cohort Jan - May 2024
 
 <span class="fs-5"><span class="text-red-100">Application for the 2nd ZK Fellowship is now closed, but you can still apply for consideration in the next one.</span></span> 
 
@@ -20,6 +22,8 @@ nav_order: 2
 <span class="fs-5"><span class="fw-700"><span class="text-blue-100">Commitment:</span></span></span> 
 
 The time commitment is **>=20 hours per week**.
+<br><br>
+There is a requirement to **stake some ETH** to ensure engagement and participation from all fellows.
 
 <br>
 <span class="fs-5"><span class="fw-700"><span class="text-blue-100">Highlights:</span></span></span> 

@@ -25,20 +25,22 @@ td, th {
                 <!-- markdown-link-check-disable -->
                 Get your codebase audited by our auditors, residents, and fellows: <a href="/auditing-services">Learn more and submit your code.</a>
 
-                <h4><b>Fellows:</b></h4>
+
+                <h4><b>Need an Audit Immediately?</b></h4> 
+                
+                Our resident auditors at <a href="https://yaudit.dev/">yAudit</a> can take it on: <a href="https://yaudit.dev/#contact">request</a> an audit, view <a href="https://reports.yaudit.dev/">previous reports</a>.
+
+                <h4><b>Aspiring Fellows:</b></h4>
                  
                 Join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. <a href="/fellowships">Learn more and apply.</a>
                 
                 
                 <h4><b>Auditors:</b></h4> 
                 
-                Already highly experienced? Join as a guest auditor during one of our fellowship auditing sprints. You will lead the fellows (for 1-2 weeks), with full support from our resident auditors and admin staff. <a href="/fellowships/guest-auditor-program">Learn more and apply.</a>
+                Already highly experienced? Join as a guest auditor during one of our fellowship auditing sprints. You will lead the fellows (for 1-2 weeks), with full support from our resident auditors and core membrers. <a href="/fellowships/guest-auditor-program">Learn more and apply.</a>
 
                 
 
-                <h4><b>Need an Audit Immediately?</b></h4> 
-                
-                Our resident auditors at <a href="https://yaudit.dev/">yAudit</a> can take it on: <a href="https://yaudit.dev/#contact">request</a> an audit, view <a href="https://reports.yaudit.dev/">previous reports</a>.
       
                 <br>
 
