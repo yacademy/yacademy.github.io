@@ -52,14 +52,15 @@ nav_order: 6
 ||||
 |:--------------:|:-------------:|:----------------:|
 | 0xAdrii | 0xc0ffEE  | 0xl3xx |
-| 0xRajkumar | 0xvj | **adriro** |
+| 0xRajkumar | 0xvj | **adriro*** |
 | Bahurum | cinnamonbread | coincoin |
 | ctrlc03 | eccentricexit | f_f |
-| **HHK** | Jat | **ljmanini** |
-| Markus | **popular** | supernova |
+| **HHK*** | Jat | **ljmanini*** |
+| Markus | **popular*** | supernova |
 | themystery | Toshii | vnmartz.eth |
 |zaskoh | | |
 
+*_promoted to resident_
 
 ## Block 4 - November 2022
 
