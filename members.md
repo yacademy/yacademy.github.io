@@ -6,13 +6,14 @@ nav_order: 6
 ---
 
 # Core
-* [Ali Atiia](https://twitter.com/aliatiia_)
-* [engn33r](https://twitter.com/bl4ckb1rd71)
+* [Ali](https://twitter.com/0xalizk)
 * Invader
+* [engn33r](https://twitter.com/bl4ckb1rd71)
+* [nullity](https://twitter.com/nullity00)
 
 # Residents 
 
-* [blockdev](https://twitter.com/blockdeveth)
+
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * NibblerExpress
 * [sjkelleyjr](https://twitter.com/sjkelleyjr)
@@ -22,7 +23,8 @@ nav_order: 6
 * [HHK](https://twitter.com/HHK_ETH)
 * [adriro](https://twitter.com/adrianromero)
 * [ljmanini](https://twitter.com/ljmanini)
-* popular
+* [popular](https://twitter.com/popular_12345/)
+
 
 # Alumni Residents
 * [devtooligan](https://twitter.com/devtooligan)
@@ -30,6 +32,7 @@ nav_order: 6
 * [peep](https://twitter.com/XianganH)
 * [B Samuels](https://twitter.com/thebensams)
 * [Usmann](https://twitter.com/usmannk)
+* [blockdev](https://twitter.com/blockdeveth)
 
 
 # Fellows
