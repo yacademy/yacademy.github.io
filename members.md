@@ -11,9 +11,7 @@ nav_order: 6
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * [nullity](https://twitter.com/nullity00)
 
-# Residents 
-
-
+# Residents
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * NibblerExpress
 * [sjkelleyjr](https://twitter.com/sjkelleyjr)
@@ -24,6 +22,7 @@ nav_order: 6
 * [adriro](https://twitter.com/adrianromero)
 * [ljmanini](https://twitter.com/ljmanini)
 * [popular](https://twitter.com/popular_12345/)
+* DrasticWatermelon
 
 
 # Alumni Residents
@@ -47,6 +46,14 @@ nav_order: 6
 | **[parsley](https://github.com/bbresearcher)**   | [Rajesh](https://github.com/RajeshRk18)   | [Pratyush Ranjan Tiwari](https://github.com/PratyushRT)   |
 | **[Antonio Viggiano](https://github.com/aviggiano)** | [whoismatthewmc](https://github.com/whoismatthewmc1) | |
 
+## Block 6 - March 2024
+
+||||
+|:--------------:|:-------------:|:----------------:|
+| 0xspryon | Alberto Lalanda | Ezequiel |
+| fedebianu | Louis Tsai | Osman Ozdemir |
+| Pranav Garg | shakotan | willboy |
+
 ## Block 5 - April 2023
 
 ||||
@@ -55,7 +62,7 @@ nav_order: 6
 | 0xRajkumar | 0xvj | **adriro*** |
 | Bahurum | cinnamonbread | coincoin |
 | ctrlc03 | eccentricexit | f_f |
-| **HHK*** | Jat | **ljmanini*** |
+| **HHK*** | Jat | ljmanini |
 | Markus | **popular*** | supernova |
 | themystery | Toshii | vnmartz.eth |
 |zaskoh | | |
