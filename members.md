@@ -50,9 +50,11 @@ nav_order: 6
 
 ||||
 |:--------------:|:-------------:|:----------------:|
-| 0xspryon | Alberto Lalanda | Ezequiel |
-| fedebianu | Louis Tsai | Osman Ozdemir |
+| 0xspryon | Alberto Lalanda | **_eperezok*** |
+| **fedebianu*** | Louis Tsai | Osman Ozdemir |
 | Pranav Garg | shakotan | willboy |
+
+*_promoted to resident_
 
 ## Block 5 - April 2023
 
