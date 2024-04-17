@@ -20,8 +20,9 @@ nav_order: 6
 * [spalen](https://github.com/spalen0)
 * [HHK](https://twitter.com/HHK_ETH)
 * [adriro](https://twitter.com/adrianromero)
-* [ljmanini](https://twitter.com/ljmanini)
 * [popular](https://twitter.com/popular_12345/)
+* [_eperezok](https://twitter.com/_eperezok)
+* [fedebianu](https://twitter.com/fedebianu)
 * DrasticWatermelon
 
 
