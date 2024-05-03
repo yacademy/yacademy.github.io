@@ -62,6 +62,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: Completed Reports
     url: https://reports.yacademy.dev/
+  - title: Research Blog
+    url: https://blog.yacademy.dev/
   - title: Proxies Research
     url: https://proxies.yacademy.dev/
   - title: ">_ yAudit Website"
