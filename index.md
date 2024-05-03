@@ -55,6 +55,7 @@ td, th {
     
 <span class="fs-2"> [Auditing Services](/auditing-services){: .btn .btn-green } </span> &nbsp;
 <span class="fs-2"> [Fellowship Program](/fellowships){: .btn .btn-green } </span> &nbsp;
+<span class="fs-2"> [Research Blog](https://blog.yacademy.dev){: .btn .btn-green } </span> &nbsp;
 
 <span class="fs-2"> [yAudit Homepage](https://yaudit.dev/){: .btn .btn-blue } </span> &nbsp;
 <span class="fs-2"> [Completed Reports](https://reports.yacademy.dev/){: .btn .btn-blue } </span> &nbsp;
