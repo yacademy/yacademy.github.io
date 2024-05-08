@@ -14,3 +14,4 @@ If you are interested in becoming a contributor to yAcademy, email us with your 
 You can also subscribe to updates from yAcademy [on Twitter](https://twitter.com/yAcademyDAO), [github](https://github.com/YAcademy-Residents), or through our upcoming newsletter:
 
 <center><iframe src="https://yacademy.substack.com/embed" width="350" height ="100" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+
