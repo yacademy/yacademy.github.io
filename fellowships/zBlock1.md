@@ -5,6 +5,8 @@ parent: Zero-Knowledge
 grand_parent: Fellowships
 ---
 
+See also: **[zBlock2](https://zblock2.xyz)**
+
 #### **1st ZK Auditing Fellowship &nbsp;&nbsp; | &nbsp;&nbsp; May 27th - July 6th 2023**
 {: .fs-5 .text-blue-000 }
 
@@ -145,7 +147,7 @@ grand_parent: Fellowships
       <div id="innerTab11" class="inner-tab-content" style="display: none;">
         <br>
         <p class="padded-list"><b>- <a href="https://hackmd.io/68TlQZFvQOeMZ2mvFl0Abg?view#Session-11" target="blank">Quiz 1</a></b></p>
-        <p class="padded-list"><b>- <a href="https://hackmd.io/68TlQZFvQOeMZ2mvFl0Abg?view#Session-21" target="blank">Quiz 2</a></b></p>  
+        <p class="padded-list"><b>- <a href="https://hackmd.io/68TlQZFvQOeMZ2mvFl0Abg?view#Session-21" target="blank">Quiz 2</a></b></p>
         <p class="padded-list"><b>- <a href="https://youtu.be/XXLxkR-QrZk" target="blank">Solutions</a></b></p>
       </div>
       <div id="innerTab12" class="inner-tab-content" style="display: none;">
@@ -161,4 +163,3 @@ grand_parent: Fellowships
     </div>
   </div>
 </div>
-
