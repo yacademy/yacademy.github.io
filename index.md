@@ -28,7 +28,7 @@ td, th {
 
                 <h4><b>Need an Audit Immediately?</b></h4> 
                 
-                Our resident auditors at <a href="https://yaudit.dev/">yAudit</a> can take it on: <a href="https://yaudit.dev/#contact">request</a> an audit, view <a href="https://reports.yaudit.dev/">previous reports</a>.
+                Our [ZK](/members) and smart resident auditors at <a href="https://yaudit.dev/">yAudit</a> can take it on: <a href="https://yaudit.dev/#contact">request</a> an audit, view <a href="https://reports.yaudit.dev/">previous reports</a>.
 
                 <h4><b>Aspiring Fellows:</b></h4>
                  

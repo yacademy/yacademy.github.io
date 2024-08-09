@@ -11,10 +11,11 @@ nav_order: 6
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * [nullity](https://twitter.com/nullity00)
 
-# Residents
+# Smart Contract Residents
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * NibblerExpress
 * [sjkelleyjr](https://twitter.com/sjkelleyjr)
+* [devtooligan](https://twitter.com/devtooligan)
 * [prady](https://twitter.com/prady_v)
 * [panda](https://twitter.com/pandadfi)
 * [spalen](https://github.com/spalen0)
@@ -25,9 +26,18 @@ nav_order: 6
 * [fedebianu](https://twitter.com/fedebianu)
 * DrasticWatermelon
 
+# ZK Residents
+* [nullity](https://twitter.com/nullity00)
+* [Nagu](https://github.com/thogiti)
+* [Oba](https://github.com/obatirou)
+* [Parsley](https://github.com/bbresearcher)
+* [Igor](https://github.com/igorline)
+* Flying Nobita
+* teddav
+* qpzm
+* zeroqn
 
 # Alumni Residents
-* [devtooligan](https://twitter.com/devtooligan)
 * [stermi](https://twitter.com/StErMi)
 * [peep](https://twitter.com/XianganH)
 * [B Samuels](https://twitter.com/thebensams)
@@ -36,6 +46,15 @@ nav_order: 6
 
 
 # Fellows
+
+## ZK Block 2 - Jan-May 2024
+
+||||
+|:--------------:|:-------------:|:----------------:|
+|  **Flying Nobita** | **teddav**  | **qpzm**  |
+|  **zeroqun** |  0xpanicError |  hrishibahat |
+|  pia | Sachine Agrawal  | sebastiantf  |
+|  Y5Yash | 0xKarl98  |   |
 
 ## ZK Block 1 - June 2023
 
@@ -102,8 +121,8 @@ nav_order: 6
 ||||
 |:--------------:|:-------------:|:----------------:|
 |    alex lau     |    bastien guyonnet      |  eagle eyewatch |
-| **engn33r*** |    j montenegro      |   mpalhas         |       
-|  oliver chalk  | **peep*** |     saran g parikh     |  
+| **engn33r*** |    j montenegro      |   mpalhas         |
+|  oliver chalk  | **peep*** |     saran g parikh     |
 |    **sjkelleyjr***    |      smoothbot         |       stermi           |
 |zokunei|||
 
@@ -113,14 +132,12 @@ nav_order: 6
 
 ## Block 1 - October 2021
 
-|||| 
-|:--------------:|:-------------:|:----------------:|    
-| Amanusk        |  bebis        |  Bob the Builder | 
-| Carl Farterson |  Dhurv        | Goober           |       
-| **Invader***   |  **Nibbler*** | Redbeard         |  
+||||
+|:--------------:|:-------------:|:----------------:|
+| Amanusk        |  bebis        |  Bob the Builder |
+| Carl Farterson |  Dhurv        | Goober           |
+| **Invader***   |  **Nibbler*** | Redbeard         |
 
 
 
 *_promoted to resident_
-
-
