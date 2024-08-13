@@ -33,10 +33,10 @@ nav_order: 6
 * [Oba](https://github.com/obatirou)
 * [Parsley](https://github.com/bbresearcher)
 * [Igor](https://github.com/igorline)
-* Flying Nobita
-* teddav
-* qpzm
-* zeroqn
+* [Flying Nobita](https://flyingnobita.com/)
+* [teddav](https://github.com/teddav)
+* [qpzm](https://github.com/qpzm)
+* [zeroqun](https://github.com/zeroqn)
 
 # Alumni Residents
 * [stermi](https://twitter.com/StErMi)
