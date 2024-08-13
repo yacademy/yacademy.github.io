@@ -10,6 +10,7 @@ nav_order: 6
 * Invader
 * [engn33r](https://twitter.com/bl4ckb1rd71)
 * [nullity](https://twitter.com/nullity00)
+* [corn](https://twitter.com/omgcorn)
 
 # Smart Contract Residents
 * [engn33r](https://twitter.com/bl4ckb1rd71)
