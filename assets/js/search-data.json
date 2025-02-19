@@ -1,0 +1,74 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "http://localhost:4000/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Auditing services",
+    "title": "Auditing services",
+    "content": " ",
+    "url": "http://localhost:4000/auditing-services/",
+    "relUrl": "/auditing-services/"
+  },"2": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": " ",
+    "url": "http://localhost:4000/contact/",
+    "relUrl": "/contact/"
+  },"3": {
+    "doc": "Fellowships",
+    "title": "Fellowships",
+    "content": " ",
+    "url": "http://localhost:4000/fellowships/",
+    "relUrl": "/fellowships/"
+  },"4": {
+    "doc": "Guest auditor program",
+    "title": "Guest auditor program",
+    "content": " ",
+    "url": "http://localhost:4000/fellowships/guest-auditor-program/",
+    "relUrl": "/fellowships/guest-auditor-program/"
+  },"5": {
+    "doc": "yAcademy",
+    "title": "yAcademy",
+    "content": "| Projects: . Get your codebase audited by our auditors, residents, and fellows: Learn more and submit your code. Need an Audit Immediately? . Our ZK and smart resident auditors at yAudit can take it on: request an audit, view previous reports. Aspiring Fellows: . Join our trial-by-fire fellowship programs to shadow-audit alongside our resident and guest auditors. If you outperform during the fellowship, you will be invited to join the academy as a resident auditor. Learn more and apply. Auditors: . Already highly experienced? Join as a guest auditor during one of our fellowship auditing sprints. You will lead the fellows (for 1-2 weeks), with full support from our resident auditors and core membrers. Learn more and apply. | | . Auditing Services   Fellowship Program   Research Blog   . yAudit Homepage   Completed Reports   Proxies Research   . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"6": {
+    "doc": "Members",
+    "title": "Members",
+    "content": " ",
+    "url": "http://localhost:4000/members/",
+    "relUrl": "/members/"
+  },"7": {
+    "doc": "Smart Contracts",
+    "title": "Smart Contracts",
+    "content": ". ",
+    "url": "http://localhost:4000/fellowships/smart-contract-fellowships/",
+    "relUrl": "/fellowships/smart-contract-fellowships/"
+  },"8": {
+    "doc": "1st Cohort - ZK Auditing Fellowship",
+    "title": "    Proceed to electisec.tech/zblock1",
+    "content": ". ",
+    "url": "http://localhost:4000/fellowships/zBlock1/#--proceed-to-electisectechzblock1",
+    "relUrl": "/fellowships/zBlock1/#--proceed-to-electisectechzblock1"
+  },"9": {
+    "doc": "1st Cohort - ZK Auditing Fellowship",
+    "title": "1st Cohort - ZK Auditing Fellowship",
+    "content": ". ",
+    "url": "http://localhost:4000/fellowships/zBlock1/",
+    "relUrl": "/fellowships/zBlock1/"
+  },"10": {
+    "doc": "ZK Fellowship Application",
+    "title": "ZK Fellowship Application",
+    "content": " ",
+    "url": "http://localhost:4000/fellowships/zk-application/",
+    "relUrl": "/fellowships/zk-application/"
+  },"11": {
+    "doc": "Zero-Knowledge",
+    "title": "Zero-Knowledge",
+    "content": ". ",
+    "url": "http://localhost:4000/fellowships/zk-fellowships/",
+    "relUrl": "/fellowships/zk-fellowships/"
+  }
+}
